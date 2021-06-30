@@ -1,0 +1,91 @@
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    cursor: pointer;
+    z-index: 10;
+    position: fixed;
+    background: yellow;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+}
+
+
+.links {
+    color: yellow;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: inherit;
+    font-size: 30px;
+    font-weight: bold;
+    display: inline;
+}
+
+.links:hover {
+    background-color: blue;
+    color: yellow;
+}
+
+body {
+    text-align: center;
+}
+
+#aboutp {
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: algerian;
+    color: red;
+}
+
+h2 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: algerian;
+    color: red;
+}
+
+#BH {
+    height: 500px;
+    width: 700px;
+}
+
+html {
+    scroll-behavior: smooth
+}
+
+#about {
+    padding-top: 200px;
+}
+
+h3 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: algerian;
+    color: red;  
+}
+
+#videos {
+    padding-top: 50px;
+}
+
+h4 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: algerian;
+    color: red;
+}
+
+#hisp {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#history {
+    padding-top: 200px; 
+}
